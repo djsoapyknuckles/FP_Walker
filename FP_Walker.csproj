@@ -60,6 +60,9 @@
     <Compile Include="FP_Walker.cs" />
     <Compile Include="BVHFileLoader.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="FP_Walker.cslist" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
 </Project>
