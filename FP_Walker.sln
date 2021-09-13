@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP_Walker", "FP_Walker.csproj", "{5D3C35B4-AE14-487B-BF87-C3B0D356C4E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Unity = Debug|Unity
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3C35B4-AE14-487B-BF87-C3B0D356C4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3C35B4-AE14-487B-BF87-C3B0D356C4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3C35B4-AE14-487B-BF87-C3B0D356C4E2}.Debug|Unity.ActiveCfg = Debug|Unity
+		{5D3C35B4-AE14-487B-BF87-C3B0D356C4E2}.Debug|Unity.Build.0 = Debug|Unity
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE7619F-307B-4F72-8324-0F28C8D2AF0D}
+	EndGlobalSection
+EndGlobal
